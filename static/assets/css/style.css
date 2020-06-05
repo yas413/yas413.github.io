@@ -135,7 +135,7 @@ img.right {
 }
 
 .nav-menu a {
-  display: block;
+  display: none;
   position: relative;
   color: #565e49;
   padding: 10px 12px;
