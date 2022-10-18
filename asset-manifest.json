@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/evensia/static/css/main.66b96f54.css",
+    "main.js": "/evensia/static/js/main.7fe53310.js",
+    "static/js/787.f6a9bf93.chunk.js": "/evensia/static/js/787.f6a9bf93.chunk.js",
+    "static/media/reg.ttf": "/evensia/static/media/reg.17043267bfe178ef8921.ttf",
+    "static/media/bold.ttf": "/evensia/static/media/bold.104814841470be32b52f.ttf",
+    "static/media/qr.jpeg": "/evensia/static/media/qr.590de4b6b02b146709de.jpeg",
+    "static/media/trans.ttf": "/evensia/static/media/trans.812c15607e3e185b4525.ttf",
+    "static/media/poweredby.svg": "/evensia/static/media/poweredby.7c55f4f09147569454d58a34fb6178fe.svg",
+    "static/media/logo.svg": "/evensia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/evensia/index.html",
+    "main.66b96f54.css.map": "/evensia/static/css/main.66b96f54.css.map",
+    "main.7fe53310.js.map": "/evensia/static/js/main.7fe53310.js.map",
+    "787.f6a9bf93.chunk.js.map": "/evensia/static/js/787.f6a9bf93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66b96f54.css",
+    "static/js/main.7fe53310.js"
+  ]
+}
